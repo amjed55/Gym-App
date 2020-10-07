@@ -10,6 +10,7 @@ Gym program app for staff and members to sign up for classes
 - Must be able to view members
 - Must be able to view sessions
 
+## Screenshots
 ![Create Member](https://github.com/amjed55/Gym-App/blob/main/Screenshots/Create%20Member.png)
 ![Create Session](https://github.com/amjed55/Gym-App/blob/main/Screenshots/Create%20Session.png)
 ![Member Log](https://github.com/amjed55/Gym-App/blob/main/Screenshots/Member%20Log.png)
